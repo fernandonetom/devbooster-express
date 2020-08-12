@@ -19,7 +19,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Stargazers][npm-shield]][npm-url]
+[![Npm][project-version]][project-url]
+[![Npm][npm-shield]][npm-url]
 [![Issues][nodejs-shield]][nodejs-url]
 [![LinkedIn][express-shield]][express-url]
 [![MIT License][license-shield]][license-url]
@@ -28,7 +29,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src=".github/logo.png" alt="Logo">
+    <img style="background-color: #333" src=".github/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">DevBooter - Express Module</h3>
@@ -131,11 +132,13 @@ Distributed under the MIT License.
 
 ## Contact
 
-Project Link: [https://github.com/fernandonetom/devbooster-express](https://github.com/fernandonetom/devbooster-express)
+Project Link: [DevBooster-Express][project-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+[project-url]: https://github.com/fernandonetom/devbooster-express
+[project-version]: https://img.shields.io/github/package-json/v/fernandonetom/devbooster-express?style=flat-square
 [npm-shield]: https://img.shields.io/badge/npm-6.14-red
 [npm-url]: https://www.npmjs.com/
 [nodejs-shield]: https://img.shields.io/badge/NodeJS-12.18-green
