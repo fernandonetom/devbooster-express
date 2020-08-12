@@ -19,7 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Npm][project-version]][project-url]
+[![project-version][project-version]][project-url]
 [![Npm][npm-shield]][npm-url]
 [![Issues][nodejs-shield]][nodejs-url]
 [![LinkedIn][express-shield]][express-url]
